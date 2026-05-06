@@ -1,0 +1,80 @@
+{
+  "_sobre_este_archivo": "Una lista de cosas que ella hace, cuánto valen, y lo que debí haber dicho.",
+  "_para_quien": "Para ella. Que sabe exactamente de qué estoy hablando.",
+
+  "cosas_que_haces_por_mi": [
+
+    {
+      "numero": 1,
+      "qué_hiciste": "Me ofreciste ayuda cuando yo estaba saturado",
+      "lo_hiciste_porque": "Te importa. Sin más razón que esa.",
+      "cómo_respondí_yo": "Con impaciencia. Sin un gracias. Como si tu ayuda fuera algo que simplemente debía ocurrir.",
+      "lo_que_debí_haber_dicho": "Gracias. De verdad. Gracias por no esperar a que yo lo pidiera.",
+      "lo_que_vale_del_uno_al_diez": "Infinito",
+      "en_términos_de_gatos": "Como cuando un gato se sienta a tu lado exactamente cuando más lo necesitas, sin que nadie se lo pida."
+    },
+
+    {
+      "numero": 2,
+      "qué_hiciste": "Darme tu tiempo sin llevarlo en cuenta",
+      "lo_hiciste_porque": "Porque elegiste hacerlo. Nadie te obliga. Lo eliges.",
+      "cómo_respondí_yo": "Asumiéndolo. Como si tu tiempo siempre fuera a estar disponible para mí.",
+      "lo_que_debí_haber_dicho": "Noto que estás aquí. Noto que eliges estar aquí. Y eso lo valoro más de lo que digo.",
+      "lo_que_vale_del_uno_al_diez": "Todo",
+      "en_términos_de_gatos": "El ronroneo lento de un gato que ha decidido que tú eres su persona favorita en el mundo."
+    },
+
+    {
+      "numero": 3,
+      "qué_hiciste": "Aguantarme cuando estoy en modo 'no me hables'",
+      "lo_hiciste_porque": "Con una calma que yo no siempre merezco.",
+      "cómo_respondí_yo": "Dando tu paciencia por garantizada. Como si siempre fuera a absorber mis picos de mal humor sin costo.",
+      "lo_que_debí_haber_dicho": "Tu paciencia no es infinita ni gratuita. Es un regalo que eliges darme. Gracias.",
+      "lo_que_vale_del_uno_al_diez": "Muchísimo",
+      "en_términos_de_gatos": "El amasado lento en la cobija: repetitivo, constante, lleno de intención. Así eres tú con mis estados de ánimo."
+    },
+
+    {
+      "numero": 4,
+      "qué_hiciste": "Decirme verdades difíciles con cariño",
+      "lo_hiciste_porque": "No para herirme. Para ayudarme a crecer.",
+      "cómo_respondí_yo": "A veces poniéndome a la defensiva, como si la honestidad fuera un ataque.",
+      "lo_que_debí_haber_dicho": "Gracias por no decirme solo lo que quiero escuchar. Eso es amor real.",
+      "lo_que_vale_del_uno_al_diez": "Invaluable",
+      "en_términos_de_gatos": "El mordisco suave que dice 'ya fue suficiente' sin sacar las garras. Siempre tiene razón."
+    },
+
+    {
+      "numero": 5,
+      "qué_hiciste": "Conocerme mejor que yo mismo",
+      "lo_hiciste_porque": "Porque pones atención. Porque te importa.",
+      "cómo_respondí_yo": "Tomándolo como algo normal. Como si todo el mundo lo hiciera. No todo el mundo lo hace.",
+      "lo_que_debí_haber_dicho": "Que me conozcas así es uno de los regalos más grandes que existen.",
+      "lo_que_vale_del_uno_al_diez": "Todo",
+      "en_términos_de_gatos": "El gato que aprende exactamente en qué parte de la espalda te gusta que te rasquen. Personalizado. Preciso. Con cariño."
+    },
+
+    {
+      "numero": 6,
+      "qué_hiciste": "Cambiar el ambiente solo con estar",
+      "lo_hiciste_porque": "Eso es simplemente lo que eres.",
+      "cómo_respondí_yo": "Lo noto, pero no lo digo. Me lo guardo. Como si expresarlo costara algo.",
+      "lo_que_debí_haber_dicho": "Tu energía me afecta de las mejores maneras. El cuarto mejora cuando llegas.",
+      "lo_que_vale_del_uno_al_diez": "Mucho",
+      "en_términos_de_gatos": "El efecto de un gato durmiendo en el sillón: no hace nada, y sin embargo todo se siente más tranquilo."
+    },
+
+    {
+      "numero": 7,
+      "qué_hiciste": "Construir un lugar seguro donde puedo equivocarme",
+      "lo_hiciste_porque": "Es lo que hace alguien que te quiere bien.",
+      "cómo_respondí_yo": "Sin reconocer el trabajo invisible que hay detrás de ese espacio.",
+      "lo_que_debí_haber_dicho": "Sentirme seguro contigo es una de las mejores cosas de mi vida. Gracias por cuidarlo.",
+      "lo_que_vale_del_uno_al_diez": "Infinito",
+      "en_términos_de_gatos": "La lealtad felina: sin contrato, sin condiciones, sin vencimiento. Solo está."
+    }
+
+  ],
+
+  "nota_al_final": "Este archivo no es un documento técnico. Es una lista de deudas de gratitud que empiezo a saldar hoy. Firmado con todo el cariño que a veces se me olvida expresar en voz alta."
+}
